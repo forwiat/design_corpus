@@ -1,0 +1,15 @@
+##################################################################################
+sorted_mode type : 0 | sorted by sorted by type
+single phone type number : 41 | total single phone type number : 41
+skip 3 phone type number : 5952 | total skip 3 phone type number : 18529
+single phone total number : 20116 | total single phone total number : 914958
+skip 3 phone total number : 19730 | skip 3 phone total number : 888758
+##################################################################################
+##################################################################################
+handled sentence number : 193
+single phone type convert rate : 1.0
+skip 3 phone type convert rate : 0.32122618597873603
+single phone total convert rate : 0.02198570863362034
+skip 3 phone total convert rate : 0.022199518879154955
+selected data duration time : 1807.4412698412698
+##################################################################################
